@@ -17,7 +17,7 @@ class App extends Component {
         </header>
             <Countdown targetDate={new Date(2061,4,21)}/>
             <p className="counter-text">
-            are left until <a href="https://en.wikipedia.org/wiki/The_Last_Question" target="_blank"><i class="no-underline">The Last Question</i></a> is asked for the first time.
+            left until <a href="https://en.wikipedia.org/wiki/The_Last_Question" target="_blank"><i class="no-underline">The Last Question</i></a> is asked for the first time.
         </p>
         <p className="quote">
           "The last question was asked for the first time, half in jest, on May 21, 2061, at a time when humanity first stepped in to the light."
