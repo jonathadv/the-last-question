@@ -1,4 +1,4 @@
-# The Last Question Contdown
+# The Last Question Countdown
 
 This is a homage to the Isaac Asimov's short story [*The Last Question*](https://en.wikipedia.org/wiki/The_Last_Question).
 
