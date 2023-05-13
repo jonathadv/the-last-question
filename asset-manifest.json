@@ -1,7 +1,14 @@
 {
-  "main.css": "static/css/main.64304092.css",
-  "main.css.map": "static/css/main.64304092.css.map",
-  "main.js": "static/js/main.57f2460e.js",
-  "main.js.map": "static/js/main.57f2460e.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "files": {
+    "main.css": "https://tlq.daguerre.com.br/static/css/main.516616c3.css",
+    "main.js": "https://tlq.daguerre.com.br/static/js/main.27ffe103.js",
+    "index.html": "https://tlq.daguerre.com.br/index.html",
+    "static/media/logo.svg": "https://tlq.daguerre.com.br/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "main.516616c3.css.map": "https://tlq.daguerre.com.br/static/css/main.516616c3.css.map",
+    "main.27ffe103.js.map": "https://tlq.daguerre.com.br/static/js/main.27ffe103.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.516616c3.css",
+    "static/js/main.27ffe103.js"
+  ]
 }
